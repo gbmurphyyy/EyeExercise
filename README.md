@@ -1,4 +1,4 @@
-# EyeExercise
+# Eye Exercise
 
 ## Desciption of Project [How To Run]
 
