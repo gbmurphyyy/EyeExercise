@@ -1,10 +1,14 @@
-# Eye Exercise
+# Eye Exercise #
 
-## Description of Project [How To Run]
+## Description of Project ##
+_[How To Run]_
+
+STUFF
 
 
-## Roadmap of Future Improvements
+## Future Improvements ##
 There are currently no upcoming updates or improvements to this repository at this time.
 
-## License Information
-MIT license (see LICENSE file for additional details)
+## License Information ##
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
